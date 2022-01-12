@@ -1,0 +1,2 @@
+rootProject.name = "CameraX Front Back"
+include ':app'
